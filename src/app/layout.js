@@ -12,7 +12,11 @@ const plusJakartaSans = Plus_Jakarta_Sans({
 export const metadata = {
   title: 'Assetlane',
   description: 'A real estate dashboard that helps agents and managers simplify operations, stay organized and move faster',
+  icons: {
+    icon: '/favicon.png'
+  },
 };
+
 
 
 export default function RootLayout({ children }) {

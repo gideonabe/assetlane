@@ -1,7 +1,11 @@
 import Image from "next/image";
+import Navbar from "./components/Navbar";
+import Hero from "./components/Hero";
 
 export default function Home() {
   return (
-    <h1 className="bg-purple">Purple Midnight</h1>
+    <div>
+      <Hero />
+    </div>
   );
 }
