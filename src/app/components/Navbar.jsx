@@ -5,13 +5,13 @@ import unlock from '../../../public/img/unlock.png'
 
 const Navbar = () => {
   return (
-    <div className='mt-5 relative z-10 mx-auto bg-white gap-2 md:gap-6 flex justify-between items-center border-2 border-gray rounded-full px-4 py-3'>
+    <div className='mt-5 relative z-10 mx-auto bg-white gap-2 md:gap-6 flex justify-between items-center border-2 border-gray-100 rounded-full px-4 py-3'>
       <div className='flex gap-0.5 md:gap-1 ml-5 justify-center items-center'>
         <Image src="/favicon.png" width={29} height={5} alt='Assetlane'/>
-        <h1 className='text-sm md:text-[19px] font-bold'>Assetlane</h1>
+        <h1 className='text-sm md:text-[17px] font-bold'>Assetlane</h1>
       </div>
 
-      <div className='flex gap-8 text-sm md:text-base justify-center items-center'>
+      <div className='flex gap-8 text-sm justify-center items-center'>
         <p>Features</p>
         <p>Pricing</p>
         <p>About</p>

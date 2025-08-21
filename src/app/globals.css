@@ -16,8 +16,10 @@
   --color-*: initial;
   --color-white: #fff;
   --color-purple: #ff3f92;
-  --color-black: #17191C;
-  --color-gray: #CACACA;
+  --color-black: #01060F;
+  --color-black-300: #373737;
+  --color-gray-100: #CACACA;
+  --color-gray-200: #B5B5B3;
   --color-blue: #3B82F6;
 }
 
