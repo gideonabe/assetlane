@@ -35,7 +35,7 @@ const Hero = () => {
         <p className='w-[45%] text-black text-sm'>Assetlane is a real estate dashboard that helps agents and managers simplify operations, stay organized, and move faster — all from one clean interface.</p>
 
         <div className='flex gap-2 mt-4'>
-          <div className='flex gap-2 bg-blue px-1 py-0.5 md:px-11 md:py-4 rounded-full justify-center items-center'>
+          <div className='flex gap-2 bg-blue-100 px-1 py-0.5 md:px-11 md:py-4 rounded-full justify-center items-center'>
             <img src="/img/unlock.png" alt="Unlock icon" width={18} height={18}/>
             <p className='text-white text-xs'>Start 14-Day Trial</p>
           </div>

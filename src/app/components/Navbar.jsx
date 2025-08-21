@@ -16,7 +16,7 @@ const Navbar = () => {
         <p>Pricing</p>
         <p>About</p>
         <p>Contact</p>
-        <div className='flex gap-2 bg-blue px-2 py-2 md:px-8 md:py-5 rounded-full justify-center items-center'>
+        <div className='flex gap-2 bg-blue-100 px-2 py-2 md:px-8 md:py-5 rounded-full justify-center items-center'>
           <Image src={unlock} width={20} height={25} alt='Unlock'/>
           <p className='text-white text-xs'>Start 14-Day Trial</p>
         </div>
